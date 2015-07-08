@@ -1,0 +1,75 @@
+/*
+ * Nome: ibiza.css
+ * Desenvolvido por: Rafael Damasio (Phorma Design)
+ * Data da Criacao: 07-07-2015
+ * Copyright (c) 2015 - Ibiza Moveleira
+ * Versao: 3.0.0
+ */
+
+
+/*-----------------------------------------------------*/
+/* GERAL                                               */
+/*-----------------------------------------------------*/
+* {
+  outline: none!important;
+}
+
+
+/*-----------------------------------------------------*/
+/* BODY                                                */
+/*-----------------------------------------------------*/
+body {
+ padding-top: 120px;
+}
+
+
+/*-----------------------------------------------------*/
+/* TOPO                                                */
+/*-----------------------------------------------------*/
+.navbar-brand {
+  height: auto;
+  margin-left: 0!important;
+  padding: 16px 0 19px 0;
+  line-height: auto;
+}
+.navbar-brand span {
+  display: none;
+}
+
+.navbar-right {
+  margin-right: 0!important;
+  margin-top: 59px;
+}
+
+.navbar-nav > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  color: #FFF!important;
+  font-size: 20px;
+}
+
+.navbar-nav > li:last-child > a {
+  padding-right: 0;
+}
+
+
+/*-----------------------------------------------------*/
+/* HEADER CAROUSEL                                     */
+/*-----------------------------------------------------*/
+header.carousel {
+  height: 492px;
+}
+
+.carousel-inner {
+  
+}
+
+header.carousel .item {
+  
+}
+
+header.carousel .fill {
+  
+}
