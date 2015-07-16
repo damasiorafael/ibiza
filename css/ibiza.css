@@ -43,6 +43,10 @@ p {
   background-color: #000;
 }
 
+.sombra-menor {
+  box-shadow: 0 0 40px #000, 0 0 20px #000!important;
+}
+
 .navbar-brand {
   height: auto;
   margin-left: 0!important;

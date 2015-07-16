@@ -7,8 +7,8 @@
                     <p>Rodovia PR 444, Km 03 | Bloco 1 e 2 | CEP: 86.600-000 | Arapongas - PR</p>
                 </div>
                 <div class="col-md-1 col-no-padding">
-                    <a href="http://phormadesign.com.br" target="_blank">
-                        <img src="img/logo_phorma.png" alt="Phorma Design">
+                    <a href="http://www.phd3d.com.br" target="_blank">
+                        <img src="img/logo-phd.png" alt="Phorma Design">
                     </a>
                 </div>
             </div>
