@@ -22,7 +22,7 @@
     <script src="js/bootstrap.min.js"></script>
 
     <!-- Lightbox JavaScript -->
-    <script src="js/lightbox.min.js"></script>
+    <script src="js/lightbox.js"></script>
 
     <!-- Ibiza JavaScript -->
     <script src="js/scripts.js"></script>
