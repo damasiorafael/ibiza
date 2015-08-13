@@ -86,6 +86,7 @@
                 //marginSetas();
             });
 
+
             $('.jcarousel').jcarouselAutoscroll({
                 autostart: true,
                 interval: 2000

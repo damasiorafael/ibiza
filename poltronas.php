@@ -695,6 +695,59 @@
 
 
 
+            <!-- Poltrona Nicoli -->
+            <div class="col-md-4">
+                <a
+                    href="img/poltronas/nicoli/1.jpg"
+                    class="item-produto"
+                    data-lightbox="nicoli"
+                    data-title="<div class='col-lg-7'>
+                                    <span class='title-prod'>Poltrona Nicoli</span>
+                                    <span class='medidas-prod'>Compr: 0,70m Altura: 0,84m Largura: 0,67m</span>
+                                </div>
+
+                                <div class='col-lg-5'>
+                                    <span class='desc-prod'>
+                                        BASE DE MADEIRA |
+                                    </span>
+                                    <span class='material-prod'>
+                                        ASSENTO EM ESPUMA D6 |
+                                    </span>
+                                    <span class='material-prod'>
+                                        ENCOSTO EM ESPUMA D6
+                                    </span>
+                                </div>">
+
+                    <img alt="" src="img/poltronas/nicoli/1.jpg" class="img-responsive img-portfolio img-hover" width="800">
+                    <h3>Poltrona Nicoli</h3>
+                </a>
+                <a
+                    href="img/poltronas/nicoli/2.jpg"
+                    class="item-produto display-none"
+                    data-lightbox="nicoli"
+                    data-title="<div class='col-lg-7'>
+                                    <span class='title-prod'>Poltrona Nicoli</span>
+                                    <span class='medidas-prod'>Compr: 0,70m Altura: 0,84m Largura: 0,67m</span>
+                                </div>
+
+                                <div class='col-lg-5'>
+                                    <span class='desc-prod'>
+                                        BASE DE MADEIRA
+                                    </span>
+                                    <span class='material-prod'>
+                                        ASSENTO EM ESPUMA D6
+                                    </span>
+                                    <span class='material-prod'>
+                                        ENCOSTO EM ESPUMA D6
+                                    </span>
+                                </div>">
+
+                    <h3>Poltrona Nicoli</h3>
+                </a>
+            </div><!-- Poltrona Nicoli -->
+
+
+
             <!-- Namoradeira Tróia -->
             <div class="col-md-4">
                 <a

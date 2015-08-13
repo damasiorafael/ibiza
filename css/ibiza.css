@@ -104,6 +104,8 @@ header {
 
 header.carousel {
   height: auto;
+  width: 116%;
+  margin-left: -8%;
 }
 
 #slider1_container {

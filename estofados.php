@@ -465,6 +465,52 @@
                     <h3>Sofá Cama Lisboa</h3>
                 </a>
             </div><!-- Sofá Cama Lisboa -->
+
+
+
+            <!-- Sofá Cama Paris -->
+            <div class="col-md-4">
+                <a
+                    href="http://placehold.it/800x534"
+                    class="item-produto"
+                    data-lightbox="paris"
+                    data-title="<div class='col-lg-7'>
+                                    <span class='title-prod'>Estofado Paris</span>
+                                    <span class='medidas-prod'>Alt: 0,80m Larg. Aberto: 1,21 m Larg. Fechado: 0,74m Comp.: 2,10m Braços: 0,15m</span>
+                                </div>
+
+                                <div class='col-lg-5'>
+                                    <span class='desc-prod'>
+                                        Assento retrátil com molas |
+                                    </span>
+                                    <span class='material-prod'>
+                                        Assento com espuma D26 | Encosto com almofada fixa reclinável | Articulação de ferro (tubo) | Rodízios em silicone | Pés em “L”em MDF
+                                    </span>
+                                </div>">
+
+                    <img alt="" src="http://placehold.it/800x534" class="img-responsive img-portfolio img-hover" width="800">
+                    <h3>Estofado Paris</h3>
+                </a>
+                <a
+                    href="http://placehold.it/800x534"
+                    class="item-produto display-none"
+                    data-lightbox="paris"
+                    data-title="<div class='col-lg-7'>
+                                    <span class='title-prod'>Estofado Paris</span>
+                                    <span class='medidas-prod'>Alt: 0,80m Larg. Aberto: 1,21 m Larg. Fechado: 0,74m Comp.: 2,10m Braços: 0,15m</span>
+                                </div>
+
+                                <div class='col-lg-5'>
+                                    <span class='desc-prod'>
+                                        Assento retrátil com molas |
+                                    </span>
+                                    <span class='material-prod'>
+                                        Assento com espuma D26 | Encosto com almofada fixa reclinável | Articulação de ferro (tubo) | Rodízios em silicone | Pés em “L”em MDF
+                                    </span>
+                                </div>">
+                    <h3>Estofado Paris</h3>
+                </a>
+            </div><!-- Sofá Cama Paris -->
         </div>
         <!-- /.row -->
 
