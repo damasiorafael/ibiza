@@ -184,6 +184,16 @@ footer * {
   font-family: 'TwCenMT';
 }
 
+footer p {
+  text-align: center;
+  line-height: 40px;
+}
+
+footer p a {
+  display: inline;
+  padding-left: 10px;
+}
+
 .col-no-padding {
   padding: 0 0 0 0!important;
 }

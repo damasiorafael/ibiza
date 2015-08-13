@@ -67,7 +67,7 @@
                 var btnNext = $(".jcarousel-control-next");
                 var marginJanela = (parseInt(larg)-741)/2;
 
-                console.log(marginJanela);
+                //console.log(marginJanela);
 
                 /*$(".jcarousel-control-prev").css({
                     "margin-left" : marginJanela
@@ -85,18 +85,13 @@
             $(window).resize(function(){
                 //marginSetas();
             });
+
+            $('.jcarousel').jcarouselAutoscroll({
+                autostart: true,
+                interval: 2000
+            });
         });
     </script>
-
-    <?php
-        /*.jcarousel-control-prev {
-            left: 370px;
-        }
-
-        .jcarousel-control-next {
-            right: 370px;
-        }*/
-    ?>
 
 </body>
 
